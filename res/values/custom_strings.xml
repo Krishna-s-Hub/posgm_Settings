@@ -344,4 +344,11 @@
     <string name="keybox_data_title">Keybox Spoofing</string>
     <string name="keybox_data_summary">Choose a keybox XML file to spoof key attestation system-wide. Tap the delete icon to clear the current keybox data.</string>
 
+    <!-- Fingerprint authentication vibration -->
+    <string name="fingerprint_vibration_category">Fingerprint vibration options</string>
+    <string name="fp_success_vibrate_title">Fingerprint authentication vibration</string>
+    <string name="fp_success_vibrate_summary">Vibrate when fingerprint authentication is successful</string>
+    <string name="fp_error_vibrate_title">Fingerprint error vibration</string>
+    <string name="fp_error_vibrate_summary">Vibrate when fingerprint authentication fails</string>
+
 </resources>
