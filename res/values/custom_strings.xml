@@ -341,7 +341,7 @@
     <string name="hide_screen_capture_status_summary">Hide screen capture and screen record status from all applications. Can be convenient in some cases but may lead to privacy leaks. Need to restart applications for the change to take effect.</string>
 
     <!-- Keybox Data -->
-    <string name="keybox_data_title">Select keybox XML to spoof</string>
-    <string name="keybox_data_summary">Select keybox XML used for key attestation spoofing for all apps system wide. Click the delete button in order to reset the keybox data values used by the system.</string>
+    <string name="keybox_data_title">Keybox Spoofing</string>
+    <string name="keybox_data_summary">Choose a keybox XML file to spoof key attestation system-wide. Tap the delete icon to clear the current keybox data.</string>
 
 </resources>
